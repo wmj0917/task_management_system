@@ -1,0 +1,8 @@
+local_settings.py
+
+
+
+
+
+*/migrations/*.py
+!*/migrations/_init_.py
